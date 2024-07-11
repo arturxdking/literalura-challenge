@@ -15,38 +15,17 @@
 ## Funcionalidades da Aplicação
 
 1.  Buscar livro por título
-
-    ![Captura de tela 2024-06-07 201352](https://github.com/arturxdking/literalura-challenge/assets/124215230/c6232696-9380-4266-b073-5126cf45fcd2)
-
-
 2. Listar livros registrados
-
-   ![Captura de tela 2024-06-07 201558](https://github.com/KayllaneGPina/literalura-challenge/assets/124215230/f1979cbd-5ecd-4c9c-8ce0-4c00665dd1f5)
-
-
 3. Listar autores registrados
-
-   ![Captura de tela 2024-06-07 201615](https://github.com/KayllaneGPina/literalura-challenge/assets/124215230/e9e5fbb8-be31-42c1-99b9-631bfa3738eb)
-
-
 4. Listar autores vivos em um determinado ano
-
-   ![Captura de tela 2024-06-07 201754](https://github.com/KayllaneGPina/literalura-challenge/assets/124215230/7e177736-c377-4ce9-bb2d-a3e8c412a37e)
-
-
 5. Listar livros em um determinado idioma
-
-   ![Captura de tela 2024-06-07 201825](https://github.com/KayllaneGPina/literalura-challenge/assets/124215230/b57d2201-524c-49ba-a428-83a9a4622631)
-
-
-
 
 ## Como rodar o projeto
 
 1. Clone este repositório
 
    ``````
-   https://github.com/KayllaneGPina/literalura-challenge.git
+   https://github.com/arturxdking/literalura-challenge.git
    ``````
 
 2. Entre no diretório principal
