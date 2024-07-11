@@ -16,7 +16,7 @@
 
 1.  Buscar livro por título
 
-    ![Captura de tela 2024-06-07 201352](https://github.com/KayllaneGPina/literalura-challenge/assets/124215230/c6232696-9380-4266-b073-5126cf45fcd2)
+    ![Captura de tela 2024-06-07 201352](https://github.com/arturxdking/literalura-challenge/assets/124215230/c6232696-9380-4266-b073-5126cf45fcd2)
 
 
 2. Listar livros registrados
